@@ -1,4 +1,3 @@
-// Crear una lista de contactos
 let listaDeContactos = ["Joel Fernandez", "Ricardo Perez", "Arley Benites"];
 
 // Añadir un nuevo contacto
